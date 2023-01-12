@@ -6,7 +6,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Eudoxus Sans", sans-serif;
+  font-family: 'Eudoxus Sans', sans-serif;
   scroll-behavior: smooth;
 }
 
@@ -18,7 +18,7 @@
     hsl(257deg 70% 86%) 39%,
     hsl(202deg 92% 90%) 50%,
     hsl(215deg 77% 81%) 61%,
-    hsl(221deg 73% 70%) 74%,
+    h sl(221deg 73% 70%) 74%,
     hsl(220deg 76% 51%) 100%
   );
   filter: blur(125px);
